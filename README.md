@@ -16,3 +16,4 @@ Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](h
 ## DSO-106 inline comments
 
 This check is to check the feature branch deletion post merge to develop
+
