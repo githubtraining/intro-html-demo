@@ -17,12 +17,3 @@ Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](h
 
 This check is to check the feature branch deletion post merge to develop
 
-## DSO-106.1 inline comments
-
-Testing Squash merge
-
-## DSO-106.1 inline comments more
-
-Squash 1
-## DSO-106.1 inline comments more
-squash 2
