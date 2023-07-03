@@ -22,12 +22,11 @@ jobs:
           git config --global user.email "lalitha.challa@cbts.com"
           git config --global user.name "lalitha-CBTS"
           
-      - name: Commit Changes
+      - name: push Changes
         run: |
-          git add .
-          git commit -m "Automated commit"
+           git push
 
-      - name: Push changes
+      - name: commit changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GithubActions }}
