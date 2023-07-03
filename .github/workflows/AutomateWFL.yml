@@ -25,5 +25,5 @@ jobs:
       - name: push Changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GithubActions }}
+          github_token: ${{ secrets.WORKFLOW_TOKEN}}
           branch: develop
