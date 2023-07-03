@@ -19,8 +19,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "lalitha.challa@cbts.com"
-          git config --local user.name "lalitha-CBTS"
+          git config --global user.email "lalitha.challa@cbts.com"
+          git config --global user.name "lalitha-CBTS"
           git add .
           git commit -m "Automated commit"
 
