@@ -12,3 +12,8 @@ I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+
+## DSO-106 inline comments
+
+This check is to check the feature branch deletion post merge to develop
+
