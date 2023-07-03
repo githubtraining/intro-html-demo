@@ -23,10 +23,7 @@ jobs:
           git config --global user.name "lalitha-CBTS"
           
       - name: push Changes
-        run: |
-           git push
-
-      - name: commit changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GithubActions }}
+          branch: develop
